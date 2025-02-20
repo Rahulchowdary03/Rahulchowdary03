@@ -16,4 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahulchowdary03&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchowdary03&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rahulchowdary03&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
+---
