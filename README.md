@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulchowdary03&label=Profile%20views&color=0e75b6&style=flat" alt="rahulchowdary03" /> </p>
 
 - 🔭 I’m currently learning on **FULL stack**
+
+- ****Backend Developer - Trainee**
   
 - 📫 How to reach me **lingutlarahul70321@gmail.com**
 
